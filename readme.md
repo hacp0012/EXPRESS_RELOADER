@@ -2,7 +2,7 @@
 
 ![Logo](/Icons/build.ico)
 
-Un outil développé par Congo Cloud Computer pour améliorer le taut de rendement de ses développeurs.
+Un outil développé pour améliorer le taut de rendement des développeurs.
 
 Express Reloader n'est util que pour le développement des applications WEB car il permet au développeur d'actualisé
 automatiquement la pas affichier dans son navigateur.
